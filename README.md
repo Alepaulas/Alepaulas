@@ -14,5 +14,5 @@ Estou buscando ativamente contribuir para projetos de código aberto relacionado
 
 ## Contato
 
-Você pode me encontrar no [LinkedIn]([link_para_o_seu_perfil_do_LinkedIn](https://www.linkedin.com/in/alexandra-de-paula-9043652b6/).
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/alexandra-de-paula-9043652b6/).
 

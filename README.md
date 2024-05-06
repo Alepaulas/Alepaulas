@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o @Alepaulas
 
-🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
+🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UFCA.
 
 ![Hello Waving](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
 
@@ -11,6 +11,9 @@
 ## Contribuições
 
 Estou buscando ativamente contribuir para projetos de código aberto relacionados a sistemas. Se você tiver sugestões de projetos ou oportunidades de colaboração, sinta-se à vontade para entrar em contato!
+
+Atualmente faço parte do Projeto de extensão que está desenvolvendo o monitoramento de queimadas na Região do Cariri.
+
 
 ## Contato
 

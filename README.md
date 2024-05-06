@@ -3,6 +3,4 @@
 - 💞️ I’m looking to collaborate on ...
 - ⚡ Fun fact: ...
 
-<!---
 ![Exemplo GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
---->

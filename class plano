@@ -1,49 +1,28 @@
-public class Plano {
-    private String nome;
-    private double valorBase; // Valor base do plano
-    private String tipo; // Tipo de plano: "Individual", "Familiar", "Coletivo"
+import java.util.Scanner;
 
-    // Construtor
-    public Plano(String nome, double valorBase, String tipo) {
-        this.nome = nome;
-        this.valorBase = valorBase;
-        this.tipo = tipo;
-    }
+public class TelaDetalhesPlano {
+    public void mostrar() {
+        System.out.println("Tela de Detalhes do Plano:");
+        System.out.println("1. Voltar");
+        System.out.println("2. Ir para Configurações");
 
-    // Getters e Setters
-    public String getNome() {
-        return nome;
-    }
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Escolha uma opção: ");
+        int escolha = scanner.nextInt();
 
-    public void setNome(String nome) {
-        this.nome = nome;
-    }
-
-    public double getValorBase() {
-        return valorBase;
-    }
-
-    public void setValorBase(double valorBase) {
-        this.valorBase = valorBase;
-    }
-
-    public String getTipo() {
-        return tipo;
-    }
-
-    public void setTipo(String tipo) {
-        this.tipo = tipo;
-    }
-
-    // Método para solicitar orçamento
-    public void solicitarOrcamento() {
-        System.out.println("Orçamento solicitado para o plano: " + nome);
-        // Lógica para gerar e enviar o orçamento
-    }
-
-    // Método para exibir benefícios do plano
-    public void exibirBeneficios() {
-        System.out.println("Benefícios do plano: " + nome);
-        // Lógica para listar os benefícios
+        switch (escolha) {
+            case 1:
+                TelaPrincipal telaPrincipal = new TelaPrincipal();
+                telaPrincipal.mostrar();
+                break;
+            case 2:
+                TelaConfiguracao telaConfiguracao = new TelaConfiguracao();
+                telaConfiguracao.mostrar();
+                break;
+            default:
+                System.out.println("Opção inválida.");
+                mostrar();
+                break;
+        }
     }
 }

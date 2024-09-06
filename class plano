@@ -1,4 +1,39 @@
 public class Plano {
+    private String tipoPlano; // Individual, Familiar ou Coletivo
+    private double valor;
+    private String beneficios;
+    private String carencia;
+
+    // Construtor
+    public Plano(String tipoPlano, double valor, String beneficios, String carencia) {
+        this.tipoPlano = tipoPlano;
+        this.valor = valor;
+        this.beneficios = beneficios;
+        this.carencia = carencia;
+    }
+
+    // Getters e Setters
+    public String getTipoPlano() { return tipoPlano; }
+    public void setTipoPlano(String tipoPlano) { this.tipoPlano = tipoPlano; }
+
+    public double getValor() { return valor; }
+    public void setValor(double valor) { this.valor = valor; }
+
+    public String getBeneficios() { return beneficios; }
+    public void setBeneficios(String beneficios) { this.beneficios = beneficios; }
+
+    public String getCarencia() { return carencia; }
+    public void setCarencia(String carencia) { this.carencia = carencia; }
+
+    // Método para exibir informações do plano
+    public void exibirInformacoes() {
+        System.out.println("Tipo de Plano: " + tipoPlano);
+        System.out.println("Valor: R$ " + valor);
+        System.out.println("Benefícios: " + beneficios);
+        System.out.println("Carência: " + carencia);
+    }
+}
+public class Plano {
     private String nome;
     private double valorBase; // Valor base do plano
     private String tipo; // Tipo de plano: "Individual", "Familiar", "Coletivo"

@@ -6,7 +6,7 @@
 
 ## Habilidades
 
-- Linguagens: Python
+- Linguagens: Python, Java
 
 ## Contribuições
 

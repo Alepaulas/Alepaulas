@@ -2,7 +2,7 @@
 
 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UFCA.
 
-![Hello Waving](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
+![Hello Waving]([https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif](https://tenor.com/pPWFupoGIq.gif))
 
 ## Habilidades
 

@@ -14,8 +14,6 @@ Estou buscando ativamente contribuir para projetos de código aberto relacionado
 
 Atualmente faço parte do Programa de bolsas da Compass UOL - Blockchain.
 
-
 ## Contato
 
 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/alexandra-de-paula-9043652b6/).
-

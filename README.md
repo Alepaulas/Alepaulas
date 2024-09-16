@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o @Alepaulas
+# 👋 Olá, eu sou a @Alepaulas
 
 🌱 Atualmente estou no 2º semestre de Análise e Desenvolvimento de Sistemas na UFCA.
 

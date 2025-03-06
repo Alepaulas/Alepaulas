@@ -10,7 +10,10 @@
 
 ## Certificações
 
-- 🏅 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/7de6e0db-f24b-48b4-86cf-7b131bdb3d51) (Emitido em: Março/2025)
+### AWS Certified Cloud Practitioner
+![AWS Certified Cloud Practitioner](https://images.credly.com/size/340x340/images/6840b7ec-78e4-42cd-95f5-82f4251b8e2a/image.png)
+
+[Ver credencial](https://www.credly.com/badges/7de6e0db-f24b-48b4-86cf-7b131bdb3d51)
 
 
 ## Contribuições

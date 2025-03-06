@@ -1,12 +1,17 @@
 # 👋 Olá, eu sou a @Alepaulas
 
-🌱 Atualmente estou no 2º semestre de Análise e Desenvolvimento de Sistemas na UFCA.
+🌱 Atualmente estou no 3º semestre de Análise e Desenvolvimento de Sistemas na UFCA.
 
 ![Hello Waving](https://media.tenor.com/AvHPuvcRU4wAAAAj/cute-penguin.gif)
 
 ## Habilidades
 
-- Linguagens: Python, Java
+- Linguagens: Python, Java, Node
+
+## Certificações
+
+- 🏅 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/7de6e0db-f24b-48b4-86cf-7b131bdb3d51) (Emitido em: Março/2025)
+
 
 ## Contribuições
 

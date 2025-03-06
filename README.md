@@ -15,11 +15,12 @@
 
 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/7de6e0db-f24b-48b4-86cf-7b131bdb3d51)
 
-## Contribuições
+## Projetos e Contribuições
 
-Estou buscando ativamente contribuir para projetos de código aberto relacionados a sistemas. Se você tiver sugestões de projetos ou oportunidades de colaboração, sinta-se à vontade para entrar em contato!
+- 🎓 **Projeto de Extensão UFCA - Wikiversidade**  
+  Faço parte do projeto de extensão da Universidade Federal do Cariri em parceria com a [Wikiversidade](https://pt.wikiversity.org/wiki/P%C3%A1gina_principal), contribuindo com a criação e organização de conteúdos educacionais abertos.
 
-Atualmente faço parte do Programa de bolsas da Compass UOL - Blockchain.
+- 💻 Estou buscando ativamente contribuir para projetos de código aberto relacionados a sistemas. Se você tiver sugestões de projetos ou oportunidades de colaboração, sinta-se à vontade para entrar em contato!
 
 ## Contato
 

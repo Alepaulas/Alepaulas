@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a @Alepaulas
 
-🌱 Atualmente estou no 3º semestre de Análise e Desenvolvimento de Sistemas na UFCA.
+🌱 Atualmente estou no 4º semestre de Análise e Desenvolvimento de Sistemas na UFCA.
 
 ![Hello Waving](https://media.tenor.com/AvHPuvcRU4wAAAAj/cute-penguin.gif)
 
